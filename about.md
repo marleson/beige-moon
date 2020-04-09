@@ -1,11 +1,7 @@
 ---
-title: About
-headline: We are Planty
-introduction: Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of
-  geeks from Québec City. Planty is a theme we built for [Stackbit](https://www.stackbit.com/),
-  a killer JAMstack site-builder. To enable e-commerce on Planty, you’ll need to [sign
-  up for Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-  required.
+title: Sobre mim
+headline: Márleson Ferreira
+introduction: Matemático
 bulletpoints:
 - title: We love plants
   description: Now THAT is true, but we love web development even more. We talk about
