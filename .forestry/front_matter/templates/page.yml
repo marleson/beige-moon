@@ -9,3 +9,5 @@ fields:
   default: page
   config:
     required: true
+pages:
+- notas/ode/edos.md
