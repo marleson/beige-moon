@@ -4,7 +4,6 @@ menu:
   categories:
     weight: 1
     title: Notas de aula
-published: false
 
 ---
 # Equações Diferenciais Ordinárias
