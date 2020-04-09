@@ -1,5 +1,5 @@
 ---
-title: Store
+title: Notas de aula
 layout: store
 menu:
   main:
