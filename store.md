@@ -1,7 +1,8 @@
 ---
-title: Store
-menus:
+title: Sobre mim
+layout: store
+menu:
   main:
     weight: 1
-layout: store
+
 ---
