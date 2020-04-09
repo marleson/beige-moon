@@ -12,5 +12,3 @@ fields:
   default: store
   config:
     required: true
-pages:
-- store.md
