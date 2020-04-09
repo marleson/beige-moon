@@ -23,8 +23,8 @@ sections:
   templates:
   - page
 - type: document
-  path: store.md
-  label: Store
+  path: notas.md
+  label: Notas
   templates:
   - store
 - type: document
