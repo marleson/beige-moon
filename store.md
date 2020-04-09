@@ -1,5 +1,5 @@
 ---
-title: Sobre mim
+title: Store
 layout: store
 menu:
   main:
