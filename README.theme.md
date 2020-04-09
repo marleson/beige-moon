@@ -1,6 +1,9 @@
+---
+
+---
 ![logo](https://snipcart.com/media/204485/logo.svg)
 
-# Planty Stackbit theme
+# Minhas notas de aula
 
 [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/snipcart/stackbit-theme-planty&ssg=jekyll)
 
